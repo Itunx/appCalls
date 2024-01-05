@@ -1,0 +1,42 @@
+*{
+  background-color: white;
+}
+#tops{
+  display: flex;
+  
+}
+.features{
+  font-size: 10px;
+}
+.one{
+  width: 400px;
+}
+#archive{
+  display: flex;
+  /* flex-direction: row-reverse; */
+  
+  
+}
+.time{
+  display: flex;
+  justify-content: center;
+}
+.hiddenList{
+  list-style:none;
+  
+}
+.hiddenLists{
+display:none;
+  
+}
+#device{
+  display: flex;
+  border: 2px solid black; 
+}
+.arc{
+  
+}
+#archived-calls{
+  border: 2px solid black;
+  
+}
